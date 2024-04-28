@@ -1,0 +1,385 @@
+.aboutLittleMisfortuneWrap{
+    width: 100%;
+    height: auto;
+    background: #313177;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.aboutLittleMisfortuneWrapDesc{
+    width: 50%;
+}
+
+.aboutLittleMisfortuneWrapDesc__Head{
+    width: 100%;
+}
+
+.aboutLittleMisfortuneWrapDesc__Head-text{
+    padding-top: 50px;
+    margin-left: 50px;
+    text-align: left;
+    font-size: 64px;
+    color: #f0f0f0;
+}
+
+.aboutLittleMisfortuneWrapArticle__Head{
+    width: 80%;
+}
+
+.aboutLittleMisfortuneWrapArticle__Head-text{
+    padding-top: 50px;
+    margin-left: 50px;
+    text-align: left;
+    font-size: 28px;
+    color: #f0f0f0;
+}
+
+.aboutLittleMisfortuneWrapImg{
+    padding-top: 50px;
+    margin-left: auto;
+    margin-right: 95px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+
+.aboutLittleMisfortuneWrapImg__item-1{
+    margin-left: auto;
+    margin-right: 0px;
+    margin-bottom: 100px;
+    width: 600px;
+    height: 500px;
+    background: url(../../img/ScreenShots/LittleMisfortune/img1.png);
+    background-position: center;
+}
+
+.aboutLittleMisfortuneWrapImg__item-2{
+    margin-left: auto;
+    margin-right: 0px;
+    margin-bottom: 100px;
+    width: 600px;
+    height: 500px;
+    background: url(../../img/ScreenShots/LittleMisfortune/img2.png);
+    background-position: center;
+}
+
+.aboutLittleMisfortuneWrapImg__item-3{
+    margin-left: auto;
+    margin-right: 0px;
+    margin-bottom: 100px;
+    width: 600px;
+    height: 500px;
+    background: url(../../img/ScreenShots/LittleMisfortune/img3.png);
+    background-position: center;
+}
+
+@media (min-width: 992px) and (max-width: 1280px) {
+    .aboutLittleMisfortuneWrap{
+        width: 100%;
+        height: auto;
+        background: #313177;
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    
+    .aboutLittleMisfortuneWrapDesc{
+        width: 50%;
+    }
+    
+    .aboutLittleMisfortuneWrapDesc__Head{
+        width: 100%;
+    }
+    
+    .aboutLittleMisfortuneWrapDesc__Head-text{
+        padding-top: 50px;
+        margin-left: 50px;
+        text-align: left;
+        font-size: 64px;
+        color: #f0f0f0;
+    }
+    
+    .aboutLittleMisfortuneWrapArticle__Head{
+        width: 80%;
+    }
+    
+    .aboutLittleMisfortuneWrapArticle__Head-text{
+        padding-top: 50px;
+        margin-left: 50px;
+        text-align: left;
+        font-size: 28px;
+        color: #f0f0f0;
+    }
+    
+    .aboutLittleMisfortuneWrapImg{
+        padding-top: 50px;
+        margin-left: auto;
+        margin-right: 95px;
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+    
+    .aboutLittleMisfortuneWrapImg__item-1{
+        margin-left: auto;
+        margin-right: 0px;
+        margin-bottom: 100px;
+        width: 500px;
+        height: 500px;
+        background: url(../../img/ScreenShots/LittleMisfortune/img1.png);
+        background-position: center;
+    }
+    
+    .aboutLittleMisfortuneWrapImg__item-2{
+        margin-left: auto;
+        margin-right: 0px;
+        margin-bottom: 100px;
+        width: 500px;
+        height: 500px;
+        background: url(../../img/ScreenShots/LittleMisfortune/img2.png);
+        background-position: center;
+    }
+    
+    .aboutLittleMisfortuneWrapImg__item-3{
+        margin-left: auto;
+        margin-right: 0px;
+        margin-bottom: 100px;
+        width: 500px;
+        height: 500px;
+        background: url(../../img/ScreenShots/LittleMisfortune/img3.png);
+        background-position: center;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .aboutLittleMisfortuneWrap{
+        width: 100%;
+        height: auto;
+        background: #313177;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .aboutLittleMisfortuneWrapDesc{
+        width: 100%;
+    }
+    
+    .aboutLittleMisfortuneWrapDesc__Head{
+        width: 100%;
+    }
+    
+    .aboutLittleMisfortuneWrapDesc__Head-text{
+        padding-top: 50px;
+        margin-left: 50px;
+        text-align: left;
+        font-size: 64px;
+        color: #f0f0f0;
+    }
+    
+    .aboutLittleMisfortuneWrapArticle__Head{
+        width: 100%;
+    }
+    
+    .aboutLittleMisfortuneWrapArticle__Head-text{
+        padding-top: 50px;
+        margin-left: 50px;
+        margin-right: 50px;
+        text-align: left;
+        font-size: 28px;
+        color: #f0f0f0;
+    }
+    
+    .aboutLittleMisfortuneWrapImg{
+        padding-top: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+    
+    .aboutLittleMisfortuneWrapImg__item-1{
+        margin: 50px auto;
+        width: 500px;
+        height: 500px;
+        background: url(../../img/ScreenShots/LittleMisfortune/img1.png);
+        background-position: center;
+    }
+    
+    .aboutLittleMisfortuneWrapImg__item-2{
+        margin: 50px auto;
+        margin-bottom: 100px;
+        width: 500px;
+        height: 500px;
+        background: url(../../img/ScreenShots/LittleMisfortune/img2.png);
+        background-position: center;
+    }
+    
+    .aboutLittleMisfortuneWrapImg__item-3{
+        margin: 50px auto;
+        width: 500px;
+        height: 500px;
+        background: url(../../img/ScreenShots/LittleMisfortune/img3.png);
+        background-position: center;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+    .aboutLittleMisfortuneWrap{
+        width: 100%;
+        height: auto;
+        background: #313177;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .aboutLittleMisfortuneWrapDesc{
+        width: 100%;
+    }
+    
+    .aboutLittleMisfortuneWrapDesc__Head{
+        width: 100%;
+    }
+    
+    .aboutLittleMisfortuneWrapDesc__Head-text{
+        padding-top: 50px;
+        margin-left: 50px;
+        text-align: left;
+        font-size: 48px;
+        color: #f0f0f0;
+    }
+    
+    .aboutLittleMisfortuneWrapArticle__Head{
+        width: 100%;
+    }
+    
+    .aboutLittleMisfortuneWrapArticle__Head-text{
+        padding-top: 50px;
+        margin-left: 50px;
+        margin-right: 50px;
+        text-align: left;
+        font-size: 28px;
+        color: #f0f0f0;
+    }
+    
+    .aboutLittleMisfortuneWrapImg{
+        padding-top: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+    
+    .aboutLittleMisfortuneWrapImg__item-1{
+        margin: 50px auto;
+        width: 320px;
+        height: 280px;
+        background: url(../../img/ScreenShots/LittleMisfortune/img1.png);
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .aboutLittleMisfortuneWrapImg__item-2{
+        margin: 50px auto;
+        margin-bottom: 100px;
+        width: 320px;
+        height: 280px;
+        background: url(../../img/ScreenShots/LittleMisfortune/img2.png);
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .aboutLittleMisfortuneWrapImg__item-3{
+        margin: 50px auto;
+        width: 320px;
+        height: 280px;
+        background: url(../../img/ScreenShots/LittleMisfortune/img3.png);
+        background-size: cover;
+        background-position: center;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 479px) {
+    .aboutLittleMisfortuneWrap{
+        width: 100%;
+        height: auto;
+        background: #313177;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .aboutLittleMisfortuneWrapDesc{
+        width: 100%;
+    }
+    
+    .aboutLittleMisfortuneWrapDesc__Head{
+        width: 100%;
+    }
+    
+    .aboutLittleMisfortuneWrapDesc__Head-text{
+        padding-top: 50px;
+        margin-left: 50px;
+        text-align: left;
+        font-size: 48px;
+        color: #f0f0f0;
+    }
+    
+    .aboutLittleMisfortuneWrapArticle__Head{
+        width: 100%;
+    }
+    
+    .aboutLittleMisfortuneWrapArticle__Head-text{
+        padding-top: 50px;
+        margin-left: 50px;
+        margin-right: 50px;
+        text-align: left;
+        font-size: 28px;
+        color: #f0f0f0;
+    }
+    
+    .aboutLittleMisfortuneWrapImg{
+        padding-top: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+    
+    .aboutLittleMisfortuneWrapImg__item-1{
+        margin: 50px auto;
+        width: 280px;
+        height: 240px;
+        background: url(../../img/ScreenShots/LittleMisfortune/img1.png);
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .aboutLittleMisfortuneWrapImg__item-2{
+        margin: 50px auto;
+        margin-bottom: 100px;
+        width: 280px;
+        height: 240px;
+        background: url(../../img/ScreenShots/LittleMisfortune/img2.png);
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .aboutLittleMisfortuneWrapImg__item-3{
+        margin: 50px auto;
+        width: 280px;
+        height: 240px;
+        background: url(../../img/ScreenShots/LittleMisfortune/img3.png);
+        background-size: cover;
+        background-position: center;
+    }
+}
+
+@media (max-width: 320px) {
+
+}

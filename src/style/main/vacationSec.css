@@ -1,0 +1,241 @@
+.vacationSecWrap{
+    width: 100%;
+    height: 1080px;
+    background: #313177;
+}
+
+.vacationSec__Head{
+    width: 100%;
+    height: 200px;
+}
+
+.vacationSec__Head-text{
+    text-align: left;
+    margin-left: 30px;
+    padding-top: 70px;
+    color: #F0F0F0;
+    font-size: 96px; 
+}
+
+.vacationSec__Desc{
+    width: 100%;
+    height: 400px;
+}
+
+.vacationSec__Desc-text{
+    text-align: left;
+    margin-left: 30px;
+    padding-top: 70px;
+    color: #F0F0F0;
+    font-size: 48px; 
+}  
+
+.vacationSec__Button{
+    width: 600px;
+    height: 160px;
+    background-color: #f0f0f0;
+    margin: 50px auto;
+}
+
+.vacationSec_Button-text{
+    color: #0f0f0f;
+    font-size: 48px;
+    margin: 0px auto;
+    padding-top: 46px;
+}
+
+@media (min-width: 992px) and (max-width: 1280px) {
+    .vacationSecWrap{
+        width: 100%;
+        height: 1080px;
+        background: #313177;
+    }
+    
+    .vacationSec__Head{
+        width: 100%;
+        height: 200px;
+    }
+    
+    .vacationSec__Head-text{
+        text-align: left;
+        margin-left: 30px;
+        padding-top: 70px;
+        color: #F0F0F0;
+        font-size: 96px; 
+    }
+    
+    .vacationSec__Desc{
+        width: 100%;
+        height: 400px;
+    }
+    
+    .vacationSec__Desc-text{
+        text-align: left;
+        margin-left: 30px;
+        padding-top: 70px;
+        color: #F0F0F0;
+        font-size: 36px; 
+    }  
+    
+    .vacationSec__Button{
+        width: 600px;
+        height: 160px;
+        background-color: #f0f0f0;
+        margin: 50px auto;
+    }
+    
+    .vacationSec_Button-text{
+        color: #0f0f0f;
+        font-size: 48px;
+        margin: 0px auto;
+        padding-top: 46px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .vacationSecWrap{
+        width: 100%;
+        height: 1080px;
+        background: #313177;
+    }
+    
+    .vacationSec__Head{
+        width: 100%;
+        height: 200px;
+    }
+    
+    .vacationSec__Head-text{
+        text-align: left;
+        margin-left: 30px;
+        padding-top: 70px;
+        color: #F0F0F0;
+        font-size: 64px; 
+    }
+    
+    .vacationSec__Desc{
+        width: 100%;
+        height: 400px;
+    }
+    
+    .vacationSec__Desc-text{
+        text-align: left;
+        margin-left: 30px;
+        padding-top: 70px;
+        color: #F0F0F0;
+        font-size: 24px; 
+    }  
+    
+    .vacationSec__Button{
+        width: 600px;
+        height: 160px;
+        background-color: #f0f0f0;
+        margin: 50px auto;
+    }
+    
+    .vacationSec_Button-text{
+        color: #0f0f0f;
+        font-size: 48px;
+        margin: 0px auto;
+        padding-top: 46px;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+    .vacationSecWrap{
+        width: 100%;
+        height: 1080px;
+        background: #313177;
+    }
+    
+    .vacationSec__Head{
+        width: 100%;
+        height: 200px;
+    }
+    
+    .vacationSec__Head-text{
+        text-align: left;
+        margin-left: 30px;
+        padding-top: 70px;
+        color: #F0F0F0;
+        font-size: 64px; 
+    }
+    
+    .vacationSec__Desc{
+        width: 100%;
+        height: 400px;
+    }
+    
+    .vacationSec__Desc-text{
+        text-align: left;
+        margin-left: 30px;
+        padding-top: 70px;
+        color: #F0F0F0;
+        font-size: 24px; 
+    }  
+    
+    .vacationSec__Button{
+        width: 420px;
+        height: 160px;
+        background-color: #f0f0f0;
+        margin: 50px auto;
+    }
+    
+    .vacationSec_Button-text{
+        color: #0f0f0f;
+        font-size: 48px;
+        margin: 0px auto;
+        padding-top: 46px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 479px) {
+    .vacationSecWrap{
+        width: 100%;
+        height: 1080px;
+        background: #313177;
+    }
+    
+    .vacationSec__Head{
+        width: 100%;
+        height: 200px;
+    }
+    
+    .vacationSec__Head-text{
+        text-align: left;
+        margin-left: 30px;
+        padding-top: 70px;
+        color: #F0F0F0;
+        font-size: 64px; 
+    }
+    
+    .vacationSec__Desc{
+        width: 100%;
+        height: 400px;
+    }
+    
+    .vacationSec__Desc-text{
+        text-align: left;
+        margin-left: 30px;
+        padding-top: 70px;
+        color: #F0F0F0;
+        font-size: 24px; 
+    }  
+    
+    .vacationSec__Button{
+        width: 280px;
+        height: 160px;
+        background-color: #f0f0f0;
+        margin: 50px auto;
+    }
+    
+    .vacationSec_Button-text{
+        color: #0f0f0f;
+        font-size: 28px;
+        margin: 0px auto;
+        padding-top: 60px;
+    }
+}
+
+@media (max-width: 320px) {
+
+}

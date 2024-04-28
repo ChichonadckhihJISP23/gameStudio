@@ -1,0 +1,131 @@
+.nextVacationWrap{
+    width: 100%;
+    height: 1080px;
+    background: #313177;
+}
+
+.nextVacationWrap__Head{
+    padding-top: 70px;
+    width: 100%;
+    height: auto;
+}
+
+.nextVacation__Head-text{
+    font-size: 96px;
+    text-align: left;
+    padding-left: 30px;
+    color: #f0f0f0;
+}
+
+.nextVacationCard__wrap{
+    width: 100%;
+    height: auto;
+}
+
+@media (min-width: 992px) and (max-width: 1280px) {
+    .nextVacationWrap{
+        width: 100%;
+        height: 1080px;
+        background: #313177;
+    }
+    
+    .nextVacationWrap__Head{
+        padding-top: 70px;
+        width: 100%;
+        height: auto;
+    }
+    
+    .nextVacation__Head-text{
+        font-size: 96px;
+        text-align: left;
+        padding-left: 30px;
+        color: #f0f0f0;
+    }
+ 
+    .nextVacationCard__wrap{
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .nextVacationWrap{
+        width: 100%;
+        height: 1080px;
+        background: #313177;
+    }
+    
+    .nextVacationWrap__Head{
+        padding-top: 70px;
+        width: 100%;
+        height: auto;
+    }
+    
+    .nextVacation__Head-text{
+        font-size: 64px;
+        text-align: left;
+        padding-left: 30px;
+        color: #f0f0f0;
+    }
+    
+    .nextVacationCard__wrap{
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+    .nextVacationWrap{
+        width: 100%;
+        height: 1080px;
+        background: #313177;
+    }
+    
+    .nextVacationWrap__Head{
+        padding-top: 70px;
+        width: 100%;
+        height: auto;
+    }
+    
+    .nextVacation__Head-text{
+        font-size: 64px;
+        text-align: left;
+        padding-left: 30px;
+        color: #f0f0f0;
+    }
+    
+    .nextVacationCard__wrap{
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 479px) {
+    .nextVacationWrap{
+        width: 100%;
+        height: 700px;
+        background: #313177;
+    }
+    
+    .nextVacationWrap__Head{
+        padding-top: 70px;
+        width: 100%;
+        height: auto;
+    }
+    
+    .nextVacation__Head-text{
+        font-size: 36px;
+        text-align: left;
+        padding-left: 30px;
+        color: #f0f0f0;
+    }
+    
+    .nextVacationCard__wrap{
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 320px) {
+
+}

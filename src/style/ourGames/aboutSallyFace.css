@@ -1,0 +1,385 @@
+.aboutSallyFaceWrap{
+    width: 100%;
+    height: auto;
+    background: #313177;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.aboutSallyFaceWrapDesc{
+    width: 50%;
+}
+
+.aboutSallyFaceWrapDesc__Head{
+    width: 100%;
+}
+
+.aboutSallyFaceWrapDesc__Head-text{
+    padding-top: 50px;
+    margin-left: 50px;
+    text-align: left;
+    font-size: 64px;
+    color: #f0f0f0;
+}
+
+.aboutSallyFaceWrapArticle__Head{
+    width: 80%;
+}
+
+.aboutSallyFaceWrapArticle__Head-text{
+    padding-top: 50px;
+    margin-left: 50px;
+    text-align: left;
+    font-size: 28px;
+    color: #f0f0f0;
+}
+
+.aboutSallyFaceWrapImg{
+    padding-top: 50px;
+    margin-left: auto;
+    margin-right: 95px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+
+.aboutSallyFaceWrapImg__item-1{
+    margin-left: auto;
+    margin-right: 0px;
+    margin-bottom: 100px;
+    width: 600px;
+    height: 500px;
+    background: url(../../img/ScreenShots/SallyFace/img1.png);
+    background-position: center;
+}
+
+.aboutSallyFaceWrapImg__item-2{
+    margin-left: auto;
+    margin-right: 0px;
+    margin-bottom: 100px;
+    width: 600px;
+    height: 500px;
+    background: url(../../img/ScreenShots/SallyFace/img2.png);
+    background-position: center;
+}
+
+.aboutSallyFaceWrapImg__item-3{
+    margin-left: auto;
+    margin-right: 0px;
+    margin-bottom: 100px;
+    width: 600px;
+    height: 500px;
+    background: url(../../img/ScreenShots/SallyFace/img3.png);
+    background-position: center;
+}
+
+@media (min-width: 992px) and (max-width: 1280px) {
+    .aboutSallyFaceWrap{
+        width: 100%;
+        height: auto;
+        background: #313177;
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    
+    .aboutSallyFaceWrapDesc{
+        width: 50%;
+    }
+    
+    .aboutSallyFaceWrapDesc__Head{
+        width: 100%;
+    }
+    
+    .aboutSallyFaceWrapDesc__Head-text{
+        padding-top: 50px;
+        margin-left: 50px;
+        text-align: left;
+        font-size: 64px;
+        color: #f0f0f0;
+    }
+    
+    .aboutSallyFaceWrapArticle__Head{
+        width: 80%;
+    }
+    
+    .aboutSallyFaceWrapArticle__Head-text{
+        padding-top: 50px;
+        margin-left: 50px;
+        text-align: left;
+        font-size: 28px;
+        color: #f0f0f0;
+    }
+    
+    .aboutSallyFaceWrapImg{
+        padding-top: 50px;
+        margin-left: auto;
+        margin-right: 95px;
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+    
+    .aboutSallyFaceWrapImg__item-1{
+        margin-left: auto;
+        margin-right: 0px;
+        margin-bottom: 100px;
+        width: 500px;
+        height: 500px;
+        background: url(../../img/ScreenShots/SallyFace/img1.png);
+        background-position: center;
+    }
+    
+    .aboutSallyFaceWrapImg__item-2{
+        margin-left: auto;
+        margin-right: 0px;
+        margin-bottom: 100px;
+        width: 500px;
+        height: 500px;
+        background: url(../../img/ScreenShots/SallyFace/img2.png);
+        background-position: center;
+    }
+    
+    .aboutSallyFaceWrapImg__item-3{
+        margin-left: auto;
+        margin-right: 0px;
+        margin-bottom: 100px;
+        width: 500px;
+        height: 500px;
+        background: url(../../img/ScreenShots/SallyFace/img3.png);
+        background-position: center;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .aboutSallyFaceWrap{
+        width: 100%;
+        height: auto;
+        background: #313177;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .aboutSallyFaceWrapDesc{
+        width: 100%;
+    }
+    
+    .aboutSallyFaceWrapDesc__Head{
+        width: 100%;
+    }
+    
+    .aboutSallyFaceWrapDesc__Head-text{
+        padding-top: 50px;
+        margin-left: 50px;
+        text-align: left;
+        font-size: 64px;
+        color: #f0f0f0;
+    }
+    
+    .aboutSallyFaceWrapArticle__Head{
+        width: 100%;
+    }
+    
+    .aboutSallyFaceWrapArticle__Head-text{
+        padding-top: 50px;
+        margin-left: 50px;
+        margin-right: 50px;
+        text-align: left;
+        font-size: 28px;
+        color: #f0f0f0;
+    }
+    
+    .aboutSallyFaceWrapImg{
+        padding-top: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+    
+    .aboutSallyFaceWrapImg__item-1{
+        margin: 50px auto;
+        width: 500px;
+        height: 500px;
+        background: url(../../img/ScreenShots/SallyFace/img1.png);
+        background-position: center;
+    }
+    
+    .aboutSallyFaceWrapImg__item-2{
+        margin: 50px auto;
+        margin-bottom: 100px;
+        width: 500px;
+        height: 500px;
+        background: url(../../img/ScreenShots/SallyFace/img2.png);
+        background-position: center;
+    }
+    
+    .aboutSallyFaceWrapImg__item-3{
+        margin: 50px auto;
+        width: 500px;
+        height: 500px;
+        background: url(../../img/ScreenShots/SallyFace/img3.png);
+        background-position: center;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+    .aboutSallyFaceWrap{
+        width: 100%;
+        height: auto;
+        background: #313177;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .aboutSallyFaceWrapDesc{
+        width: 100%;
+    }
+    
+    .aboutSallyFaceWrapDesc__Head{
+        width: 100%;
+    }
+    
+    .aboutSallyFaceWrapDesc__Head-text{
+        padding-top: 50px;
+        margin-left: 50px;
+        text-align: left;
+        font-size: 48px;
+        color: #f0f0f0;
+    }
+    
+    .aboutSallyFaceWrapArticle__Head{
+        width: 100%;
+    }
+    
+    .aboutSallyFaceWrapArticle__Head-text{
+        padding-top: 50px;
+        margin-left: 50px;
+        margin-right: 50px;
+        text-align: left;
+        font-size: 28px;
+        color: #f0f0f0;
+    }
+    
+    .aboutSallyFaceWrapImg{
+        padding-top: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+    
+    .aboutSallyFaceWrapImg__item-1{
+        margin: 50px auto;
+        width: 320px;
+        height: 280px;
+        background: url(../../img/ScreenShots/SallyFace/img1.png);
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .aboutSallyFaceWrapImg__item-2{
+        margin: 50px auto;
+        margin-bottom: 100px;
+        width: 320px;
+        height: 280px;
+        background: url(../../img/ScreenShots/SallyFace/img2.png);
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .aboutSallyFaceWrapImg__item-3{
+        margin: 50px auto;
+        width: 320px;
+        height: 280px;
+        background: url(../../img/ScreenShots/SallyFace/img3.png);
+        background-size: cover;
+        background-position: center;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 479px) {
+    .aboutSallyFaceWrap{
+        width: 100%;
+        height: auto;
+        background: #313177;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .aboutSallyFaceWrapDesc{
+        width: 100%;
+    }
+    
+    .aboutSallyFaceWrapDesc__Head{
+        width: 100%;
+    }
+    
+    .aboutSallyFaceWrapDesc__Head-text{
+        padding-top: 50px;
+        margin-left: 50px;
+        text-align: left;
+        font-size: 48px;
+        color: #f0f0f0;
+    }
+    
+    .aboutSallyFaceWrapArticle__Head{
+        width: 100%;
+    }
+    
+    .aboutSallyFaceWrapArticle__Head-text{
+        padding-top: 50px;
+        margin-left: 50px;
+        margin-right: 50px;
+        text-align: left;
+        font-size: 28px;
+        color: #f0f0f0;
+    }
+    
+    .aboutSallyFaceWrapImg{
+        padding-top: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+    
+    .aboutSallyFaceWrapImg__item-1{
+        margin: 50px auto;
+        width: 280px;
+        height: 240px;
+        background: url(../../img/ScreenShots/SallyFace/img1.png);
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .aboutSallyFaceWrapImg__item-2{
+        margin: 50px auto;
+        margin-bottom: 100px;
+        width: 280px;
+        height: 240px;
+        background: url(../../img/ScreenShots/SallyFace/img2.png);
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .aboutSallyFaceWrapImg__item-3{
+        margin: 50px auto;
+        width: 280px;
+        height: 240px;
+        background: url(../../img/ScreenShots/SallyFace/img3.png);
+        background-size: cover;
+        background-position: center;
+    }
+}
+
+@media (max-width: 320px) {
+
+}
